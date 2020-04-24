@@ -1,8 +1,8 @@
 # HuffmanCoding
 Full transmission (encoding, decoding) of textual data using Huffman encoding 
 
-![Image of Huffman Tree]
-(https://github.com/RaphaelBijaoui/images/blob/master/huffman1.png)
+![GitHub Logo](https://github.com/RaphaelBijaoui/images/blob/master/huffman1.png)
+Format: ![Alt Text](url)
 
 - git clone 
 
