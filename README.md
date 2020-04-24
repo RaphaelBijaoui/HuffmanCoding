@@ -8,15 +8,24 @@ Full transmission (encoding, decoding) of textual data using Huffman encoding
   <i>Overview of compression system implemented</i>
 </p>
 
+Key to this system is the Huffman tree, which was visualised as follows.
 
 <p align="center">
   <img src="https://github.com/RaphaelBijaoui/images/blob/master/huffman1.png">
 </p>
 <p align="center">
-  <i>Huffman Tree generated for transmission</i>
+  <i>Sample Huffman Tree generated for transmission</i>
 </p>
 
-- git clone 
-
-- to run:
-//g++ -std=c++11 huffmancoding.cpp -o huffmancoding
+### To run locally:
+Clone repository locally
+```
+git clone https://github.com/RaphaelBijaoui/HuffmanCoding.git
+```
+Compile C++ code with gcc. 
+```
+g++ -std=c++11 huffmancoding.cpp -o huffmancoding
+```
+And finally run huffmancoding executable
+```
+./huffmancoding
