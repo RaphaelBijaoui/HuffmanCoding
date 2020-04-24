@@ -5,7 +5,7 @@ Full transmission (encoding, decoding) of textual data using Huffman encoding
   <img src="https://github.com/RaphaelBijaoui/images/blob/master/huffman1.png">
 </p>
 <p align="center">
-  Image1
+  <i>Image 1</i>
 </p>
 
 - git clone 
